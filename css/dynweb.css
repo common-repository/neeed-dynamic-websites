@@ -1,0 +1,16 @@
+.dynweb_blue_light_filter, 
+.dynweb_temperature_filter {
+    content: " ";
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 999999;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.dynweb_blue_light_filter {
+    background: rgb(255, 121, 0);
+}

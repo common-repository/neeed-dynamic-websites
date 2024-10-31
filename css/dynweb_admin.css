@@ -1,0 +1,192 @@
+.et-fb-no-vb-support-warning {
+    display:none !important;
+}
+
+
+.dynweb_page .dynweb_button {
+    font-family:PT Sans,Arial,Helvetica,sans-serif;
+    border:1px solid #ffffff;
+    color:#ffffff;
+    background-color:transparent;
+    text-decoration:none;
+    padding:10px;
+    cursor:pointer;
+}
+
+.dynweb_page .dynweb_content {
+    background:#c5e1ff;
+    padding:1em 2.2em;
+}
+
+.dynweb_page .dynweb_table th,
+.dynweb_page .dynweb_table td {
+    font-family:PT Sans,Arial,Helvetica,sans-serif;
+    border:1px solid #6eb4ff;
+    border-collapse:collapse;
+    padding:0;
+    background-color:#ffffff;
+    color:#000000;
+    text-align:left;
+    min-width:250px;
+}
+
+.dynweb_page .dynweb_table th {
+    padding:15px;
+}
+
+.dynweb_page .dynweb_table td.icons {
+    border:none;
+    background-color:transparent;
+    padding:10px;
+    font-size:1.5em;
+}
+
+.dynweb_page .dynweb_table td a {
+    text-decoration:none;
+    color:#000000;
+    display:block;
+    padding:15px;
+}
+
+.dynweb_page .ui-tabs.ui-widget {
+    border:0;
+    padding:0;
+    background:none;
+}
+
+.dynweb_page .dynweb_rule_name {
+    font-size:17px;
+    padding:5px;
+}
+
+.dynweb_page .dynweb_save {
+    font-family:PT Sans,Arial,Helvetica,sans-serif;
+    font-size:13px;
+    text-transform:uppercase;
+    color:#ffffff;
+    background-color:#92c15e;
+    padding:10px;
+    cursor:pointer;
+}
+
+.dynweb_page .ui-tabs .ui-widget-header {
+    border:0;
+    background:none;
+    padding:0;
+}
+
+.dynweb_page .ui-tabs .ui-widget-header .ui-corner-top {
+    margin:0;
+    padding:0;
+    width:150px;
+    border-width:0 1px 0 0;
+    text-transform:uppercase;
+   
+}
+
+.dynweb_page .ui-tabs .ui-widget-header .ui-corner-top:last-of-type {
+    border-right-width:0;
+}
+
+.dynweb_page .ui-tabs .ui-widget-header .ui-corner-top .ui-tabs-anchor {
+    padding:12px 0;
+    width:150px;
+    text-align:center;
+}
+
+.dynweb_page .ui-tabs .ui-tabs-panel {
+    background-color:#c5e1ff;
+    padding:0;
+}
+
+.dynweb_page .ui-tabs-panel .dynweb_accordion {
+    padding:0;
+}
+
+.dynweb_page .ui-tabs-panel .dynweb_accordion .ui-accordion-header {
+    border:0;
+    padding:15px;
+    background-color:#8bc3ff;
+    text-transform:uppercase;
+}
+
+
+.dynweb_page .ui-tabs-panel .dynweb_accordion .ui-accordion-header .ui-icon {
+    position:absolute;
+    right:10px;
+    top:15px;
+    left:unset;
+    bottom:unset;
+    margin-top:0;
+}
+
+
+.dynweb_page .ui-tabs .ui-tabs-panel .ui-checkboxradio-label {
+    background:transparent;
+    color:#333333;
+    border:1px solid #ffffff;
+    padding:15px 0;
+    width:180px;
+    text-align:center;
+}
+
+
+.dynweb_page .ui-tabs .ui-tabs-panel .ui-checkboxradio-checked {
+    background-color:#3b3b3b;
+    color:#ffffff;
+}
+
+.dynweb_page .dynweb_header,
+.dynweb_page .dynweb_footer,
+.dynweb_tabinfo {
+    padding:1em 2.2em;
+    background-color:#6eb4ff;
+    position:relative;
+}
+
+.dynweb_tabinfo {
+    display:none;
+    margin:20px 20px 0 0;
+}
+
+.dynweb_page .dynweb_tabinfo {
+    margin:0;
+}
+
+
+.dynweb_tabinfo .dynweb_close_tabinfo {
+    position:absolute;
+    top:10px;
+    right:10px;
+    font-size:1.2em;
+}
+
+
+.dynweb_page .ui-tabs .ui-tabs-panel .dynweb_conditions_container {
+    padding:1em 2.2em;
+}
+
+
+.ui-widget.dynweb_datetimepicker {
+    font-size:14px;
+}
+
+
+/* admin bar */
+#wp-admin-bar-dynweb select {
+    -webkit-appearance:button;
+    background:#fff;
+}
+
+#wp-admin-bar-dynweb input[type="text"] {
+    min-height:22px;
+    height:22px;
+    padding:1px;
+}
+
+
+
+.wp-pointer {
+    z-index:10000001 !important;
+}
+
